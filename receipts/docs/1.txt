@@ -1,0 +1,9 @@
+Dual Cotexin;500;3;9;100;900
+Select Drug;10gms;2 X 3;9;;0
+Piriton;500;3;1;5;5
+Piriton;500;3;1;5;5
+Dual Cotexin;50gms;2x3;9per;100;900
+Dual Cotexin;500;3;1;100;100
+Dual Cotexin;500;3;1;100;100
+Dual Cotexin;500;3;1;100;100
+Dual Cotexin;500;3;1;100;100
